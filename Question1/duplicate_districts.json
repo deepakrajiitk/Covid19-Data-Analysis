@@ -1,0 +1,96 @@
+{
+    "UP_Hamirpur": [
+        "UP_Kanpur Nagar",
+        "UP_Mahoba",
+        "UP_Kanpur Dehat",
+        "UP_Jhansi",
+        "UP_Jalaun",
+        "UP_Banda",
+        "UP_Fatehpur"
+    ],
+    "HP_Hamirpur": [
+        "HP_Bilaspur",
+        "HP_Una",
+        "HP_Kangra",
+        "HP_Mandi"
+    ],
+    "RJ_Pratapgarh": [
+        "RJ_Chittorgarh",
+        "MP_Ratlam",
+        "RJ_Dungarpur",
+        "RJ_Udaipur",
+        "MP_Mandsaur",
+        "MP_Neemuch",
+        "RJ_Banswara"
+    ],
+    "UP_Pratapgarh": [
+        "UP_Jaunpur",
+        "UP_Bareilly",
+        "UP_Prayagraj",
+        "UP_Amethi",
+        "UP_Kaushambi",
+        "UP_Sultanpur",
+        "UP_Fatehpur"
+    ],
+    "UP_Balrampur": [
+        "UP_Gonda",
+        "UP_Shrawasti",
+        "UP_Siddharthnagar"
+    ],
+    "CT_Balrampur": [
+        "JH_Gumla",
+        "UP_Sonbhadra",
+        "CT_Surajpur",
+        "CT_Jashpur",
+        "JH_Garhwa",
+        "MP_Singrauli",
+        "JH_Latehar",
+        "CT_Surguja"
+    ],
+    "MH_Aurangabad": [
+        "MH_Jalna",
+        "MH_Nashik",
+        "MH_Jalgaon",
+        "MH_Ahmednagar",
+        "MH_Beed"
+    ],
+    "BR_Aurangabad": [
+        "BR_Arwal",
+        "BR_Gaya",
+        "JH_Palamu",
+        "BR_Rohtas"
+    ],
+    "HP_Bilaspur": [
+        "PB_Rupnagar",
+        "HP_Una",
+        "HP_Solan",
+        "HP_Mandi",
+        "HP_Hamirpur"
+    ],
+    "CT_Bilaspur": [
+        "CT_Mungeli",
+        "CT_Baloda Bazar",
+        "CT_Korba",
+        "MP_Anuppur",
+        "CT_Janjgir Champa",
+        "CT_Koriya"
+    ],
+    "KA_Bijapur": [
+        "KA_Bagalkote",
+        "KA_Kalaburagi",
+        "MH_Sangli",
+        "KA_Raichur",
+        "KA_Belagavi",
+        "KA_Yadgir",
+        "MH_Solapur"
+    ],
+    "CT_Bijapur": [
+        "TG_Jayashankar Bhupalapally",
+        "TG_Bhadradri Kothagudem",
+        "MH_Gadchiroli",
+        "CT_Sukma",
+        "CT_Dakshin Bastar Dantewada",
+        "CT_Narayanpur",
+        "TG_Mulugu"
+    ]
+}
