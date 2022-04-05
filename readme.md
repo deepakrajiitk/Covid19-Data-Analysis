@@ -20,7 +20,7 @@ The aim of the  project  is  to  provide data analysis of covid-19  (a pandemic 
 |Question4.ipynb|for every district, state and overall, it finds the week and month having peak (highest) number of active cases for wave-1 and wave-2.|
 |Question5.ipynb|finds the number of people vaccinated with 1 or 2 doses of any vaccine, and sort the output file with district id and state id|
 |Question6.ipynb|finds the number of people vaccinated with 1 or 2 doses of any vaccine, and sort the output file with district id and state id.| |Question6.ipynb|for each state, district and overall, it finds the following ratios: total number of females vaccinated (either 1 or 2 doses) to total number of males vaccinated (same). For that district/state/country, it finds the ratio of population of females to males. At last it finds the ratio of the two ratios, i.e., vaccination ratio to population ratio|
-|Question7.ipynb| For each state, district and overall, it finds the following ratios: total number of Covishield vaccinated persons (either 1 or 2 doses) to total number of Covaxin vaccinated persons(same).|
+|Question7.ipynb| for each state, district and overall, it finds the following ratios: total number of Covishield vaccinated persons (either 1 or 2 doses) to total number of Covaxin vaccinated persons(same).|
 |Question8.ipynb| for each state, district and overall, it finds the following ratio: total number of persons vaccinated (both 1 and 2 doses) to total population.|
 |Question9.ipynb|for every state, find the date on which the entire population will get at least one dose of vaccination.|
 
